@@ -193,7 +193,7 @@ button {
 }
 
 .container .payment input {
-  width: 12%;
+  width: 17%;
   padding: 10px;
   border: none;
   font-size: 14px;
@@ -234,7 +234,7 @@ button {
 }
 
 .container .payment #card {
-  width: 60%;
+  width: 53%;
   margin-left: 10%;
 }
 
